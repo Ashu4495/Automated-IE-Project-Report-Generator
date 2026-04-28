@@ -208,17 +208,15 @@ Automated IE Project Report Generator/
 
 Watch the complete end-to-end automation in action:
 
-<video width="100%" controls style="background-color: #000; border-radius: 8px;">
-  <source src="https://github.com/Ashu4495/Automated-IE-Project-Report-Generator/raw/main/IMG/Recording%202026-04-28%20220702.mp4" type="video/mp4">
-  Your browser does not support the video tag. Try using Chrome, Firefox, Safari, or Edge.
-  Alternative: <a href="IMG/Recording%202026-04-28%20220702.mp4">Download Video</a>
-</video>
+**[🎬 CLICK HERE TO WATCH VIDEO DEMO](IMG/Recording%202026-04-28%20220702.mp4?raw=true)**
+
+*Or download directly:* [Recording 2026-04-28 220702.mp4](IMG/Recording%202026-04-28%20220702.mp4?raw=true)
 
 **Video Details:**
 - **Duration:** Complete end-to-end workflow
 - **Content:** Form submission → Report generation → Email delivery
 - **Format:** MP4 (112 MB)
-- **Alternative:** [Direct Download](IMG/Recording%202026-04-28%20220702.mp4)
+- **Resolution:** Full HD demonstration
 
 ---
 
