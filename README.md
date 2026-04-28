@@ -208,7 +208,11 @@ Automated IE Project Report Generator/
 
 Watch the complete end-to-end automation in action:
 
-![Automated Report Generation Demo](IMG/Recording%202026-04-28%20220702.mp4)
+<video width="100%" controls>
+  <source src="IMG/Recording%202026-04-28%20220702.mp4" type="video/mp4">
+  Your browser does not support the video tag. 
+  <a href="IMG/Recording%202026-04-28%20220702.mp4">Download the video</a>
+</video>
 
 *This video demonstrates the entire workflow from form submission through email delivery.*
 
