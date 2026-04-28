@@ -1,9 +1,4 @@
-# Large media files
-*.mp4
-*.mov
-*.avi
-*.wmv
-
+# Large media files (exclude except for IMG folder)
 # IDE & OS files
 .DS_Store
 .vscode/
