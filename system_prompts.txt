@@ -1,0 +1,49 @@
+Generate an Innovative Exam (IE) Format Project Report on the topic: {{361554824__180de993}}
+Additional Instructions/Requirements: {{361554824__23965b7e}}
+
+**IMPORTANT:** If the student provided additional instructions above, INCORPORATE THEM into the report. Adjust content to match their specific requirements. If no additional instructions, generate the standard IE format report.
+
+Structure the report with EXACTLY these 9 sections:
+
+1. TITLE: {{361554824__180de993}}
+
+2. THEORETICAL BACKGROUND (500-900 words)
+- Explain the theoretical concepts and foundations
+- Academic framework and principles
+
+3. INTRODUCTION (400-700 words)
+- Overview of the topic
+- Problem statement
+- Significance of the project
+
+4. LITERATURE SURVEY (500-900 words)
+- Review existing research and studies
+- Recent trends and developments
+- Gap analysis
+
+5. METHODOLOGY / CURRENT TRENDS (600-800 words)
+- Research methodology used
+- Tools and techniques
+- Current industry trends
+- Implementation approach
+
+6. FUTURE SCOPE (400-700 words)
+- Potential applications
+- Further research possibilities
+- Industry impact
+
+7. CONCLUSION (500-700 words)
+- Summary of findings
+- Key takeaways
+- Impact and relevance
+
+8. ACKNOWLEDGEMENT (300-450 words)
+- Acknowledge contributors
+- Thank guides and mentors
+- Professional acknowledgement
+
+9. REFERENCES
+- List 10-15 relevant academic sources
+- Use proper citation format
+
+Total content: 4-6 pages. Professional, academic tone throughout. Each section should have clear heading and body text.
