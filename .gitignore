@@ -1,0 +1,23 @@
+# Large media files
+*.mp4
+*.mov
+*.avi
+*.wmv
+
+# IDE & OS files
+.DS_Store
+.vscode/
+*.pyc
+__pycache__/
+*.egg-info/
+.env
+.env.local
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Dependencies
+node_modules/
+package-lock.json
