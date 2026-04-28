@@ -204,19 +204,16 @@ Automated IE Project Report Generator/
 #### 5. Final Output Preview
 ![Final Output](IMG/Screenshot%202026-04-28%20221121.png)
 
+#### 5. Final Output Preview
+![Final Output](IMG/Screenshot%202026-04-28%20221121.png)
+
 ### 📹 Complete Workflow Video Demo
 
 Watch the complete end-to-end automation in action:
 
-**[🎬 CLICK HERE TO WATCH VIDEO DEMO](IMG/Recording%202026-04-28%20220702.mp4?raw=true)**
+[![Workflow Demo Video](IMG/Screenshot%202026-04-28%20220305.png)](IMG/Recording%202026-04-28%20220702.mp4)
 
-*Or download directly:* [Recording 2026-04-28 220702.mp4](IMG/Recording%202026-04-28%20220702.mp4?raw=true)
-
-**Video Details:**
-- **Duration:** Complete end-to-end workflow
-- **Content:** Form submission → Report generation → Email delivery
-- **Format:** MP4 (112 MB)
-- **Resolution:** Full HD demonstration
+*Click the image above to watch the complete workflow video demonstration*
 
 ---
 
