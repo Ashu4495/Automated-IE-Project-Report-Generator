@@ -208,12 +208,17 @@ Automated IE Project Report Generator/
 
 Watch the complete end-to-end automation in action:
 
-[![Workflow Demo Video](https://img.shields.io/badge/▶%20Watch%20Video-Click%20to%20Play-blue?style=for-the-badge)](IMG/Recording%202026-04-28%20220702.mp4)
+<div align="center">
+  
+**[▶ WATCH VIDEO - CLICK TO PLAY](IMG/Recording%202026-04-28%20220702.mp4)**
 
-**Video Details:**
-- Duration: Complete end-to-end workflow
-- Shows: Form submission → Report generation → Email delivery
-- [Direct Download Link](IMG/Recording%202026-04-28%20220702.mp4)
+[Direct Download Video](IMG/Recording%202026-04-28%20220702.mp4)
+
+**Duration:** Complete end-to-end workflow  
+**Shows:** Form submission → Report generation → Email delivery  
+**Size:** 112 MB | **Format:** MP4
+
+</div>
 
 ---
 
